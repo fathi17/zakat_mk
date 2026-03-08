@@ -44,7 +44,7 @@ function App() {
       <div className="app-header">
         <div className="header-pattern"></div>
         <FaMosque className="header-icon" />
-        <h1>Sistem Pendataan Zakat Masjid</h1>
+        <h1>Pendataan ZIS Masjid Khadijah</h1>
         <p className="subtitle">Ramadhan 1447 H</p>
       </div>
 
@@ -61,9 +61,9 @@ function App() {
         {currentStep === 4 && (
           <ConfirmationView prevStep={prevStep} formData={formData} resetForm={resetForm} />
         )}
-        
+
         <footer className="app-footer">
-          <p>Panitia Zakat Masjid &mdash; Ramadhan 1447 H</p>
+          <p>Panitia Zakat Masjid Khadijah &mdash; Ramadhan 1447 H</p>
         </footer>
       </div>
     </>
