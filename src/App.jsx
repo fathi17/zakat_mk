@@ -63,7 +63,7 @@ function App() {
         )}
 
         <footer className="app-footer">
-          <p>Panitia Zakat Masjid Khadijah &mdash; Ramadhan 1447 H</p>
+          <p>Panitia ZIS Masjid Khadijah &mdash; Ramadhan 1447 H</p>
         </footer>
       </div>
     </>
